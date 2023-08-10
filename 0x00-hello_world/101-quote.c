@@ -1,11 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <unistd.h>
 /**
  * main - Entry point
  *
  * Description: 'A program'
  *
- * Return: 0 (Success)
+ * Return: Always 1 (Success)
  */
 int main(void)
 {
