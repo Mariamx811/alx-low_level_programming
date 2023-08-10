@@ -5,7 +5,7 @@
  * Description: 'program writes a statement using puts'
  * @parameter: void
  *
- * Return: Always 0
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
