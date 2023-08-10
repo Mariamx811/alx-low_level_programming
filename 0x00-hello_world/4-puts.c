@@ -3,7 +3,6 @@
  * main - Entry point
  *
  * Description: 'program writes a statement using puts'
- * @parameter: void
  *
  * Return: Always 0 (Success)
  */
