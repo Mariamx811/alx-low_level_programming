@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  *main - Entry point
- * 
+ *
  *Description: 'letters'
  *
  *Return: Always 0 (Success)
