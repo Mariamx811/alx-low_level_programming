@@ -10,7 +10,7 @@ int main(void)
 {
 	char c = 'a';
 
-	whilc (c <= 'z')
+	while (c <= 'z')
 	{
 		if (c == 'q' || c == 'e')
 			continue;
